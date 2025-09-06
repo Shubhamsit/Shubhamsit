@@ -11,8 +11,8 @@
 - 4th year B.Tech student at Silicon University  
 - Exploring open source, blockchain, and diving deeper into backend development  
 - I enjoy writing technical blogs on [Medium]() to simplify complex topics  
-- Currently developing ConnectDot, with plans to launch in the future  
-- 2025 Goal: Complete and launch ConnectDot, and grow as a backend-focused developer
+- Currently working in backend and blockchain
+
 
 ---
 
