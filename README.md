@@ -18,16 +18,6 @@
 
 
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamsit&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubhamsit&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/b486c624-54cb-4d61-9d41-06e9e496bcfe.svg" alt="WakaTime Badge" />
-</p>
-
 ---
 
 ### Web Development Stack
