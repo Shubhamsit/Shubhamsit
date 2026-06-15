@@ -6,12 +6,12 @@
   </a>
 </p>
 
-## I'm a Student at Silicon University
+## I'm a Compouter Science Undergrad
 
-- 4th year B.Tech student at Silicon University  
-- Exploring open source, blockchain, and diving deeper into backend development  
+
+- Exploring open source, Agentic Ai , and diving deeper into backend development  
 - I enjoy writing technical blogs on [Medium]() to simplify complex topics  
-- Currently working in backend and blockchain
+- Currently working in  Full Stack , Prev: Blockchain
 
 
 ---
